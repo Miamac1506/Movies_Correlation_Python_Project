@@ -248,7 +248,6 @@ high_corr
 # Votes and budget have the highest correlation to gross earnings
 
 
-# In[ ]:
 
 
 
