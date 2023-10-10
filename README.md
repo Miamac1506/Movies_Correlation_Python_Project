@@ -5,7 +5,7 @@ In this project, I use Python to look at what variables affect the gross revenue
 
 ### Data
 
-The data includes a list of movie information including title, director, cast, date released, ratings, duration, revenue, votings, etc. 
+The data includes a list of movie information including title, director, cast, date released, ratings, duration, revenue, votes, etc. 
 
 ### Proposal
 
